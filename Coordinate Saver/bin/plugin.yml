@@ -1,0 +1,8 @@
+main: me.omnister.coords.Main
+name: CoordSaver
+version: 1.0
+author: Omnister
+
+commands:
+  SaveCoords:
+  SeeCoords:
